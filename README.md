@@ -72,8 +72,8 @@ pip install requests openpyxl babel python-dotenv
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/automacao-sobreaviso.git
-cd automacao-sobreaviso
+git clone https://github.com/RaFaSMK/Automacao_Sobreaviso.git
+cd Automacao_Sobreaviso
 ```
 
 2. **Configure as variáveis de ambiente** — copie o `.env.example` e preencha com seus dados:
