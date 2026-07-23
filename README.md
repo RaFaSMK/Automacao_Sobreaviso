@@ -139,4 +139,4 @@ Automacao_Sobreaviso/
 
 ## 👤 Autor
 
-Feito por **[Rafael Wagner](https://github.com/RaFaSMK)**
+Feito por **[Rafael Souza](https://github.com/RaFaSMK)**
